@@ -1,0 +1,7 @@
+{
+  "reservationDay": "2023-11-14",
+  "description": "My reservation",
+  "contactType": "PHONE",
+  "contactDetail": "+39 333 333 3333",
+  "userId": "USERID"
+}
